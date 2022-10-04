@@ -1,10 +1,5 @@
-table#Text {
-    width: 550px;
-    border-collapse: collapse;
-}
-
-table#Text tr {
-    vertical-align: top;
+.table{
+margin-top: 50px;
 }
 
 #PAR {
@@ -13,10 +8,8 @@ table#Text tr {
     width: 550px;
     border: solid 1;
     padding: 10;
-    text-align: left;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 100px;
 }
 
-table#Text td {
-    font-family: times new roman;
-    font-size: 11pt;
-}
